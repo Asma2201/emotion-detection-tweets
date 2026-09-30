@@ -1,0 +1,3 @@
+*.csv
+bert_emotions/
+.ipynb_checkpoints/
